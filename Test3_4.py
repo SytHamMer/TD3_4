@@ -53,7 +53,9 @@ if __name__ == '__main__':
 
     #ex1(I en A,R1 en ohm ,R2 en ohm,L en mH, I2 (Q6) en A )
 
+    ex1()
+
     #ATTENTION AUX UNITES QUE JE DEMANDE
     #la réponse est toujours donnée dans l'unité demandé ex q7 en ms
     #ex2(E en V,r1 en kohm,r2 en kohm ,c en nF,uc1 en V,uc2 en V)
-    ex2(12,1.2,2.7,575,2.6,8.4)
+    ex2()
